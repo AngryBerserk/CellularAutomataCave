@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2015.08.18 15:43:23.096,=F:\Proj\Delphi\Unit2.pas</Transaction>
+    <Transaction>2015.08.18 15:44:16.982,F:\Proj\Delphi\Cellular_new\Unit2.pas=F:\Proj\Delphi\Unit2.pas</Transaction>
+    <Transaction>2015.08.18 15:44:16.982,F:\Proj\Delphi\Cellular_new\Unit2.fmx=F:\Proj\Delphi\Unit2.fmx</Transaction>
+    <Transaction>2015.08.18 15:44:27.782,F:\Proj\Delphi\Cellular_new\Cellular.dproj=F:\Proj\Delphi\Project3.dproj</Transaction>
+    <Transaction>2015.08.18 15:45:35.722,=F:\Proj\Delphi\Cellular_new\Cave.pas</Transaction>
+    <Transaction>2015.08.18 15:45:36.263,=F:\Proj\Delphi\Cellular_new\Painter.pas</Transaction>
+  </Transactions>
+</BorlandProject>
